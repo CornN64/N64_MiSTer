@@ -397,6 +397,7 @@ parameter CONF_STR = {
 	"Restore state 3,",
 	"Save to state 4,",
 	"Restore state 4;",
+	"turbo;",	
 	"V,v",`BUILD_DATE
 };
 
