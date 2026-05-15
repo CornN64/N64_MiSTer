@@ -11,7 +11,7 @@ entity cpu_cop0 is
    (
       COUNTHACK_ON            : std_logic := '1'; -- counthack
       COUNTHACK_CLK1          : integer := 3;	--225; --clk ratio -> CLK2/CLK1 = x/93.75
-      COUNTHACK_CLK2          : integer := 4;	--304
+      COUNTHACK_CLK2          : integer := 4	--304
    );
    port 
    (
